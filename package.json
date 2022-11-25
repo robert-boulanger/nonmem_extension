@@ -1,16 +1,16 @@
 {
-    "name": "nonmem-cn",
-    "displayName": "nonmem_cn",
+    "name": "nonmem scinteco",
+    "displayName": "nonmem scinteco",
     "description": "nonmem syntax highlighter, Code block folding, Completion",
     "version": "0.2.0",
-    "publisher": "FuYongchao",
-    "homepage": "https://s0521.github.io/nonmem_cn/about/",
+    "publisher": "com.scinteco",
+    "homepage": "https://github.com/robert-boulanger/nonmem_extension",
     "repository": {
         "type": "git",
-        "url": "https://github.com/s0521/nonmem_cn.git"
+        "url": "https://github.com/robert-boulanger/nonmem_extension"
     },
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.72.0"
     },
     "categories": [
         "Programming Languages"
@@ -18,15 +18,14 @@
     "icon": "icon.png",
     "main": "./extension.js",
     "activationEvents": [
-        "onLanguage:nonmem_cn"
+        "onLanguage:nonmem"
     ],
     "contributes": {
         "languages": [
             {
-                "id": "nonmem_cn",
+                "id": "nonmem",
                 "aliases": [
-                    "nonmem",
-                    "nonmem_cn"
+                    "nonmem"
                 ],
                 "extensions": [
                     ".mod",
@@ -39,15 +38,15 @@
         ],
         "grammars": [
             {
-                "language": "nonmem_cn",
-                "scopeName": "nonmem_cn",
-                "path": "./syntaxes/nonmem_cn.tmLanguage.json"
+                "language": "nonmem",
+                "scopeName": "nonmem",
+                "path": "./syntaxes/nonmem.tmLanguage.json"
             }
         ],
         "snippets": [
             {
                 "language": "nonmem_cn",
-                "path": "./snippets/nonmem_cn.json"
+                "path": "./snippets/nonmem.json"
             }
         ]
     }

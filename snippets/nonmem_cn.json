@@ -2,307 +2,307 @@
     "IV-1cmp-linear": {
         "prefix": "ADVAN1",
         "body": "ADVAN1",
-        "description": "IV-1cmp-linear;静注-1房室-线性消除"
+        "description": "IV-1cmp-linear"
     },
     "PO-1cmp-linear": {
         "prefix": "ADVAN2",
         "body": "ADVAN2",
-        "description": "PO-1cmp-linear;口服-1房室-线性消除"
+        "description": "PO-1cmp-linear"
     },
     "IV-2cmp-linear": {
         "prefix": "ADVAN3",
         "body": "ADVAN3",
-        "description": "IV-2cmp-linear;静注-2房室-线性消除"
+        "description": "IV-2cmp-linear"
     },
     "PO-2cmp-linear": {
         "prefix": "ADVAN4",
         "body": "ADVAN4",
-        "description": "PO-2cmp-linear;口服-2房室-线性消除"
+        "description": "PO-2cmp-linear"
     },
     "general linear model with real or complex eigenvalues": {
         "prefix": "ADVAN5",
         "body": "ADVAN5",
-        "description": "general linear model with real or complex eigenvalues;一般线性模型-实或复特征值"
+        "description": "general linear model with real or complex eigenvalues"
     },
     "general non-linear model (NonStiff) RK56 ODE Solver": {
         "prefix": "ADVAN6",
         "body": "ADVAN6",
-        "description": "general non-linear model (NonStiff) RK56 ODE Solver;一般线非性模型(非刚性)RK56常微分方程求解器"
+        "description": "general non-linear model (NonStiff) RK56 ODE Solver"
     },
     "general linear model with real eigenvalues": {
         "prefix": "ADVAN7",
         "body": "ADVAN7",
-        "description": "general linear model with real eigenvalues;一般线性模型-实特征值"
+        "description": "general linear model with real eigenvalues"
     },
     "general non-linear model (Stiff) DGEAR1 ODE Solver": {
         "prefix": "ADVAN8",
         "body": "ADVAN8",
-        "description": "general non-linear model (Stiff) DGEAR1 ODE Solver;一般线非性模型(刚性)DGEAR1常微分方程求解器"
+        "description": "general non-linear model (Stiff) DGEAR1 ODE Solver"
     },
     "general non-linear model with LSODI1 ODE Solver, and Differential‐Algebraic Equations (ADE)": {
         "prefix": "ADVAN9",
         "body": "ADVAN9",
-        "description": "general non-linear model with LSODI1 ODE Solver, and Differential‐Algebraic Equations (ADE);一般线非性模型，LSODI1常微分方程求解器和代数微分方程"
+        "description": "general non-linear model with LSODI1 ODE Solver, and Differential‐Algebraic Equations (ADE)"
     },
     "IV-1cmp-nonlinear": {
         "prefix": "ADVAN10",
         "body": "ADVAN10",
-        "description": "IV-1cmp-nonlinear;静注-1房室-非线性消除"
+        "description": "IV-1cmp-nonlinear"
     },
     "IV-3cmp-linear": {
         "prefix": "ADVAN11",
         "body": "ADVAN11",
-        "description": "IV-3cmp-linear;静注-3房室-线性消除"
+        "description": "IV-3cmp-linear"
     },
     "PO-3cmp-linear": {
         "prefix": "ADVAN12",
         "body": "ADVAN12",
-        "description": "PO-3cmp-linear;口服-3房室-线性消除"
+        "description": "PO-3cmp-linear"
     },
     "general non-linear model (Stiff or non-Stiff) LSODA ODE Solver": {
         "prefix": "ADVAN13",
         "body": "ADVAN13",
-        "description": "general non-linear model (Stiff or non-Stiff) LSODA ODE Solver;一般线非性模型(刚性或非刚性)LSODI1常微分方程求解器和代数微分方程"
+        "description": "general non-linear model (Stiff or non-Stiff) LSODA ODE Solver"
     },
     "general non-linear model (Stiff non-Stiff) CVODES ODE Solver": {
         "prefix": "ADVAN14",
         "body": "ADVAN14",
-        "description": "general non-linear model (Stiff non-Stiff) CVODES ODE Solver;一般线非性模型(刚性 非刚性)LSODI1常微分方程求解器和代数微分方程"
+        "description": "general non-linear model (Stiff non-Stiff) CVODES ODE Solver"
     },
     "general non-linear model with IDAS ODE Solver, and Differential‐Algebraic Equations (ADE)": {
         "prefix": "ADVAN15",
         "body": "ADVAN15",
-        "description": "general non-linear model with IDAS ODE Solver, and Differential‐Algebraic Equations (ADE);一般线非性模型，IDAS常微分方程求解器和代数微分方程"
+        "description": "general non-linear model with IDAS ODE Solver, and Differential‐Algebraic Equations (ADE)"
     },
     "Micro parameterization": {
         "prefix": "TRANS1",
         "body": "TRANS1",
-        "description": "Micro parameterization;微观参数化"
+        "description": "Micro parameterization"
     },
     "Clearance parameterization-1cmp": {
         "prefix": "TRANS2",
         "body": "TRANS2",
-        "description": "Clearance parameterization-1cmp;清除率参数化-1cmp"
+        "description": "Clearance parameterization-1cmp"
     },
     "Clearance parameterization-Vss": {
         "prefix": "TRANS3",
         "body": "TRANS3",
-        "description": "Clearance parameterization-Vss;清除率参数化-Vss"
+        "description": "Clearance parameterization-Vss"
     },
     "Clearance parameterization-V1": {
         "prefix": "TRANS4",
         "body": "TRANS4",
-        "description": "Clearance parameterization-V1;清除率参数化-V1"
+        "description": "Clearance parameterization-V1"
     },
     "Macro parameterization-A/B": {
         "prefix": "TRANS5",
         "body": "TRANS5",
-        "description": "Macro parameterization-A/B;宏观参数化-A/B"
+        "description": "Macro parameterization-A/B"
     },
     "Macro parameterization-k31": {
         "prefix": "TRANS6",
         "body": "TRANS6",
-        "description": "Macro parameterization-k31;宏观参数化-k31"
+        "description": "Macro parameterization-k31"
     },
     "Problem Specification": {
         "prefix": "$PROBLEM",
         "body": "\\$PROBLEM",
-        "description": "Identifies the start of a Problem Specification;指定期望解决的问题用于区分不同的代码文件，一般作为NONMEM控制文件的第一个代码块，填写些注释性的文字，或可描述问题或可声明作者或可说明时间等。"
+        "description": "Identifies the start of a Problem Specification"
     },
     "Define column meaning": {
         "prefix": "$DATA",
         "body": "\\$DATA",
-        "description": "Define the meaning of each column in the data file;定义数据文件每一列的含义"
+        "description": "Define the meaning of each column in the data file"
     },
     "Define the input file path": {
         "prefix": "$INPUT",
         "body": "\\$INPUT",
-        "description": "Define the input file path;定义输入文件路径"
+        "description": "Define the input file path"
     },
     "Define the statistical structure of the PK parameter": {
         "prefix": "$PK",
         "body": "\\$PK",
-        "description": "Define the statistical structure of the PK parameter;定义PK参数的统计学结构"
+        "description": "Define the statistical structure of the PK parameter"
     },
     "Define error model": {
         "prefix": "$ERROR",
         "body": "\\$ERROR",
-        "description": "Define error model;定义误差模型"
+        "description": "Define error model"
     },
     "Define differential equations model": {
         "prefix": "$PRED",
         "body": "\\$PRED",
-        "description": "The model is defined by differential equations and mutually exclusive with ADVAN(PREDPP) series subroutines.;使用微分方程定义模型，与ADVAN(PREDPP)系列子程序互斥。"
+        "description": "The model is defined by differential equations and mutually exclusive with ADVAN(PREDPP) series subroutines."
     },
     "Define the initial value and boundary of the 'fixed' effect parameter in the statistical structure of the 'PK' parameter.": {
         "prefix": "$THETA",
         "body": "\\$THETA",
-        "description": "Define the initial value and boundary of the 'fixed' effect parameter in the statistical structure of the 'PK' parameter, The coefficients of the correlation between covariates and IIV are also defined here as initial values and boundaries;定义'PK'参数统计学结构中的'固定'效应参数的初值与边界，协变量与IIV的相关性关系的系数也在此定义初值与边界"
+        "description": "Define the initial value and boundary of the 'fixed' effect parameter in the statistical structure of the 'PK' parameter, The coefficients of the correlation between covariates and IIV are also defined here as initial values and boundaries"
     },
     "Define the initial value and boundary of the 'random' effect parameter in the statistical structure of the 'PK' parameter.": {
         "prefix": "$OMEGA",
         "body": "\\$OMEGA",
-        "description": "Define the initial value and boundary of the 'random' effect parameter in the statistical structure of the 'PK' parameter, The covariance between IIV also defines the initial value and boundary here;定义'PK'参数统计学结构中的'随机'效应参数的初值与边界，IIV之间的协方差也在此定义初始值与边界"
+        "description": "Define the initial value and boundary of the 'random' effect parameter in the statistical structure of the 'PK' parameter, The covariance between IIV also defines the initial value and boundary here"
     },
     "Define the initial value and boundary of the residual": {
         "prefix": "$SIGMA",
         "body": "\\$SIGMA",
-        "description": "Define the initial value and boundary of the residual;定义残差的初值与边界"
+        "description": "Define the initial value and boundary of the residual"
     },
     "Only for ADVAN5-9, 13 to Define compartment and compartment properties": {
         "prefix": "$MODEL",
         "body": "\\$MODEL",
-        "description": "Define compartment and compartment properties, which are only available in general linear / nonlinear models (ADVAN5-9, 13);定义房室与房室属性，仅在一般线性/非线性模型中可用(ADVAN5-9,13)"
+        "description": "Define compartment and compartment properties, which are only available in general linear / nonlinear models (ADVAN5-9, 13)"
     },
     "Only for ADVAN5-9, 13 to Define differential equations model": {
         "prefix": "$DES",
         "body": "\\$DES",
-        "description": "The model is defined by differential equations, which are only available in general linear / nonlinear models (ADVAN5-9, 13);使用微分方程定义模型，仅在一般线性/非线性模型中可用(ADVAN5-9,13)"
+        "description": "The model is defined by differential equations, which are only available in general linear / nonlinear models (ADVAN5-9, 13)"
     },
     "Define one output table": {
         "prefix": "$TABLE",
         "body": "\\$TABLE",
-        "description": "Define one output table;定义一个输出的表格"
+        "description": "Define one output table"
     },
     "Define one output SCATTERPLOT": {
         "prefix": "$SCATTERPLOT",
         "body": "\\$SCATTERPLOT",
-        "description": "Define one output SCATTERPLOT;定义一个输出的三点图"
+        "description": "Define one output SCATTERPLOT"
     },
     "Define the details of the estimation process": {
         "prefix": "$ESTIMATION",
         "body": "\\$ESTIMATION",
-        "description": "Define the details of calculation engine algorithm, convergence criterion, maximum number of iterations and so on;定义计算引擎算法、收敛判据标准、最大迭代次数等细节。"
+        "description": "Define the details of calculation engine algorithm, convergence criterion, maximum number of iterations and so on"
     },
     "Engine algorithm=FO-I": {
         "prefix": "METHOD=0  INTER",
         "body": "METHOD=0  INTER",
-        "description": "Engine algorithm=FO-I;将算法指定为FO-I"
+        "description": "Engine algorithm=FO-I"
     },
     "Engine algorithm=FOCE-I": {
         "prefix": "METHOD=CONDITIONAL INTER",
         "body": "METHOD=CONDITIONAL INTER",
-        "description": "Engine algorithm=FOCE-I;将算法指定为FOCE-I"
+        "description": "Engine algorithm=FOCE-I"
     },
     "Engine algorithm=LAPLACIAN-I": {
         "prefix": "METHOD=CONDITIONAL LAPLACE INTER",
         "body": "METHOD=CONDITIONAL LAPLACE INTER",
-        "description": "Engine algorithm=LAPLACIAN-I;将算法指定为LAPLACIAN-I"
+        "description": "Engine algorithm=LAPLACIAN-I"
     },
     "Engine algorithm=HYBRID": {
         "prefix": "METHOD=HYBRID",
         "body": "METHOD=HYBRID",
-        "description": "Engine algorithm=HYBRID;将算法指定为HYBRID-混合算法"
+        "description": "Engine algorithm=HYBRID"
     },
     "Engine algorithm=ITS": {
         "prefix": "METHOD=ITS",
         "body": "METHOD=ITS",
-        "description": "Engine algorithm=ITS;将算法指定为ITS-迭代两步法"
+        "description": "Engine algorithm=ITS"
     },
     "Engine algorithm=IMP": {
         "prefix": "METHOD=IMP",
         "body": "METHOD=IMP",
-        "description": "Engine algorithm=IMP;将算法指定为IMP-重要性重采样法"
+        "description": "Engine algorithm=IMP"
     },
     "Engine algorithm=IMPMAP": {
         "prefix": "METHOD=IMPMAP",
         "body": "METHOD=IMPMAP",
-        "description": "Engine algorithm=IMPMAP;将算法指定为IMPMAP-使用后验众数辅助的重要性重采样"
+        "description": "Engine algorithm=IMPMAP"
     },
     "Engine algorithm=BAYES": {
         "prefix": "METHOD=BAYES",
         "body": "METHOD=BAYES",
-        "description": "Engine algorithm=BAYES;将算法指定为BAYES-贝叶斯"
+        "description": "Engine algorithm=BAYES"
     },
     "Engine algorithm=DIRECT": {
         "prefix": "METHOD=DIRECT",
         "body": "METHOD=DIRECT",
-        "description": "Engine algorithm=DIRECT;将算法指定为DIRECT-直接采样"
+        "description": "Engine algorithm=DIRECT"
     },
     "Engine algorithm=CHAIN, which is similar to the initial value of Phoenix NLME's Profile Run Mode to be perturbed.": {
         "prefix": "METHOD=CHAIN",
         "body": "METHOD=CHAIN",
-        "description": "Engine algorithm=CHAIN, which is similar to the initial value of Phoenix NLME's Profile Run Mode to be perturbed.;将算法指定为CHAIN-类似与PhoenixNLME的Profile运行模式初值进行扰动"
+        "description": "Engine algorithm=CHAIN, which is similar to the initial value of Phoenix NLME's Profile Run Mode to be perturbed."
     },
     "=": {
         "prefix": ".EQ.",
         "body": ".EQ.",
-        "description": "EQual;等于"
+        "description": "EQual"
     },
     "<=": {
         "prefix": ".LE.",
         "body": ".LE.",
-        "description": "Less than or Equal;小于等于"
+        "description": "Less than or Equal"
     },
     "<": {
         "prefix": ".LT.",
         "body": ".LT.",
-        "description": "Less Than;小于"
+        "description": "Less Than"
     },
     ">=": {
         "prefix": ".GE.",
         "body": ".GE.",
-        "description": "Greater than or Equal;大于等于"
+        "description": "Greater than or Equal"
     },
     ">": {
         "prefix": ".GT.",
         "body": ".GT.",
-        "description": "Greater Than;大于"
+        "description": "Greater Than"
     },
     "<>": {
         "prefix": ".NE.",
         "body": ".NE.",
-        "description": "Not Equal;不等于"
+        "description": "Not Equal"
     },
     "And": {
         "prefix": ".AND.",
         "body": ".AND.",
-        "description": "And;逻辑运算符：和"
+        "description": "And"
     },
     "Or": {
         "prefix": ".OR.",
         "body": ".OR.",
-        "description": "Or;逻辑运算符：或"
+        "description": "Or"
     },
     "IF": {
         "prefix": "IF",
         "body": "IF",
-        "description": "IF;逻辑运算符：如果"
+        "description": "IF"
     },
     "ELSE": {
         "prefix": "ELSE",
         "body": "ELSE",
-        "description": "ELSE;逻辑运算符：否则"
+        "description": "ELSE"
     },
     "THEN": {
         "prefix": "THEN",
         "body": "THEN",
-        "description": "THEN;逻辑运算符：则"
+        "description": "THEN"
     },
     "ENDIF": {
         "prefix": "ENDIF",
         "body": "ENDIF",
-        "description": "ENDIF;逻辑运算符：结束如果"
+        "description": "ENDIF"
     },
     "MAXEVALL=999": {
         "prefix": "MAXEVALL=999",
         "body": "MAXEVALL=999",
-        "description": "Set the maximum number of iterations to 999;将最大迭代次数设定为999次"
+        "description": "Set the maximum number of iterations to 999"
     },
     "Parameter accuracy(CV,RSE,SE,SD)": {
         "prefix": "$COVARIANCE",
         "body": "\\$COVARIANCE",
-        "description": "Define the calculation method of parameter accuracy;定义参数精度计算方法"
+        "description": "Define the calculation method of parameter accuracy"
     },
     "Hessian": {
         "prefix": "MATRIX=R",
         "body": "MATRIX=R",
-        "description": "Hessian;海森矩阵"
+        "description": "Hessian"
     },
     "Gradient, Fisher Score": {
         "prefix": "MATRIX=S",
         "body": "MATRIX=S",
-        "description": "Gradient, Fisher Score;梯度矩阵(雅可比矩阵)，费舍尔分数"
+        "description": "Gradient, Fisher Score"
     },
     "NOABORT": {
         "prefix": "NOABORT",
@@ -312,236 +312,236 @@
     "NOAPPEND": {
         "prefix": "NOAPPEND",
         "body": "NOAPPEND",
-        "description": ";不在表格中附加DV，PRED，RES，WRES列"
+        "description": ""
     },
     "FILE": {
         "prefix": "FILE",
         "body": "FILE",
-        "description": ";文件=内容输出至具体哪个路径下的哪个文件"
+        "description": ""
     },
     "FIRSTONLY": {
         "prefix": "FIRSTONLY",
         "body": "FIRSTONLY",
-        "description": ";仅输出每个个体的第一条记录"
+        "description": ""
     },
     "ONEHEADER": {
         "prefix": "ONEHEADER",
         "body": "ONEHEADER",
-        "description": ";仅在首行输出一次列的名称"
+        "description": ""
     },
     "NOPRINT": {
         "prefix": "NOPRINT",
         "body": "NOPRINT",
-        "description": ";不在.lst结果中输出此内容"
+        "description": ""
     },
     "EXP": {
         "prefix": "EXP",
         "body": "EXP",
-        "description": ";以自然常数e为底的指数函数"
+        "description": ""
     },
     "COS": {
         "prefix": "COS",
         "body": "COS",
-        "description": ";余弦三角函数"
+        "description": ""
     },
     "SIN": {
         "prefix": "SIN",
         "body": "SIN",
-        "description": ";正弦三角函数"
+        "description": ""
     },
     "DADT": {
         "prefix": "DADT",
         "body": "DADT",
-        "description": ";"
+        "description": ""
     },
     "LOG": {
         "prefix": "LOG",
         "body": "LOG",
-        "description": ";"
+        "description": ""
     },
     "IPRED": {
         "prefix": "IPRED",
         "body": "IPRED",
-        "description": ";因变量个体预测值"
+        "description": ""
     },
     "PRED": {
         "prefix": "PRED",
         "body": "PRED",
-        "description": ";因变量群体预测值"
+        "description": ""
     },
     "CWRES": {
         "prefix": "CWRES",
         "body": "CWRES",
-        "description": ";条件加权残差"
+        "description": ""
     },
     "WRES": {
         "prefix": "WRES",
         "body": "WRES",
-        "description": ";加权残差"
+        "description": ""
     },
     "IRES": {
         "prefix": "IRES",
         "body": "IRES",
-        "description": ";个体残差"
+        "description": ""
     },
     "RES": {
         "prefix": "RES",
         "body": "RES",
-        "description": ";残差"
+        "description": ""
     },
     "CL": {
         "prefix": "CL",
         "body": "CL",
-        "description": ";清除率"
+        "description": ""
     },
     "KA": {
         "prefix": "KA",
         "body": "KA",
-        "description": ";"
+        "description": ""
     },
     "KEL": {
         "prefix": "KEL",
         "body": "KEL",
-        "description": ";"
+        "description": ""
     },
     "ALPHA": {
         "prefix": "ALPHA",
         "body": "ALPHA",
-        "description": ";阿尔法，宏观参数"
+        "description": ""
     },
     "BETA": {
         "prefix": "BETA",
         "body": "BETA",
-        "description": ";贝塔，宏观参数"
+        "description": ""
     },
     "GAMA": {
         "prefix": "GAMA",
         "body": "GAMA",
-        "description": ";伽马，宏观参数"
+        "description": ""
     },
     "TIME": {
         "prefix": "TIME",
         "body": "TIME",
-        "description": ";时间"
+        "description": ""
     },
     "AMT": {
         "prefix": "AMT",
         "body": "AMT",
-        "description": ";给药剂量"
+        "description": ""
     },
     "ADDL": {
         "prefix": "ADDL",
         "body": "ADDL",
-        "description": ";额外附加给药次数"
+        "description": ""
     },
     "II": {
         "prefix": "II",
         "body": "II",
-        "description": ";给药间隔"
+        "description": ""
     },
     "CALL": {
         "prefix": "CALL",
         "body": "CALL",
-        "description": ";"
+        "description": ""
     },
     "CMT": {
         "prefix": "CMT",
         "body": "CMT",
-        "description": ";房室编号"
+        "description": ""
     },
     "PCMT": {
         "prefix": "PCMT",
         "body": "PCMT",
-        "description": ";"
+        "description": ""
     },
     "CONT": {
         "prefix": "CONT",
         "body": "CONT",
-        "description": ";"
+        "description": ""
     },
     "DATE": {
         "prefix": "DATE",
         "body": "DATE",
-        "description": ";日期"
+        "description": ""
     },
     "RATE": {
         "prefix": "RATE",
         "body": "RATE",
-        "description": ";给药速率"
+        "description": ""
     },
     "DV": {
         "prefix": "DV",
         "body": "DV",
-        "description": ";因变量（观测值）"
+        "description": ""
     },
     "MDV": {
         "prefix": "MDV",
         "body": "MDV",
-        "description": ";将此行因变量的值视为缺失"
+        "description": ""
     },
     "EVID": {
         "prefix": "EVID",
         "body": "EVID",
-        "description": ";事件类型编号"
+        "description": ""
     },
     "FIN": {
         "prefix": "FIN",
         "body": "FIN",
-        "description": ";"
+        "description": ""
     },
     "FINISH": {
         "prefix": "FINISH",
         "body": "FINISH",
-        "description": ";"
+        "description": ""
     },
     "ID": {
         "prefix": "ID",
         "body": "ID",
-        "description": ";个体编号"
+        "description": ""
     },
     "L1": {
         "prefix": "L1",
         "body": "L1",
-        "description": ";"
+        "description": ""
     },
     "L2": {
         "prefix": "L2",
         "body": "L2",
-        "description": ";"
+        "description": ""
     },
     "SS": {
         "prefix": "SS",
         "body": "SS",
-        "description": ";标识是否为已经到达稳态"
+        "description": ""
     },
     "FIX": {
         "prefix": "FIX",
         "body": "FIX",
-        "description": ";将此参数的值固定为初始值"
+        "description": ""
     },
     "Specify ADVAN and TRANS in this statement": {
         "prefix": "$SUBROUTINES",
         "body": "\\$SUBROUTINES",
-        "description": "Specify ADVAN and TRANS in this statement;在此语句中指定ADVAN和TRANS"
+        "description": "Specify ADVAN and TRANS in this statement"
     },
     "IGNORE": {
         "prefix": "IGNORE",
         "body": "IGNORE",
-        "description": "IGNORE;定义用于筛选过滤的符号，行首为该符号的行被“剔除”"
+        "description": "IGNORE"
     },
     "THETA()": {
         "prefix": "THETA()",
         "body": "THETA($1)$2",
-        "description": "THETA();定义一个固定效应变量"
+        "description": "THETA()"
     },
     "ETA()": {
         "prefix": "ETA()",
         "body": "ETA($1)$2",
-        "description": "ETA();定义一个个体间变异随机变量"
+        "description": "ETA()"
     },
     "ERR()": {
         "prefix": "ERR()",
         "body": "ERR($1)$2",
-        "description": "ERR();定义一个个体内变异随机变量"
+        "description": "ERR()"
     }
 }
